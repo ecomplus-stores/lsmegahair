@@ -51,11 +51,19 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "sort": "offers",
-      "title": "",
+      "sort": "news",
+      "title": "Novidades quentes",
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Mais vendidos"
     }
   ]
 }
