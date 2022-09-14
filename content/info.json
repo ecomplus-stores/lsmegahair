@@ -8,11 +8,11 @@
     "text": "Parcele em até 3x sem juros"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "Dúvidas? Chame-nos no WhatsApp 6199951-1951"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
