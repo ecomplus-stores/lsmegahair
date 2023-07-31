@@ -1,16 +1,16 @@
 {
   "domain": "lsmegahair.com.br",
-  "repository": "ecomplus-stores/lsmegahair",
   "currency_symbol": "R$",
-  "primary_color": "#ff6d9a",
+  "primary_color": "#6f5607",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/lsmegahair",
   "logo": "/img/uploads/1652802174477-03c6ab00-d5f8-11ec-b8ab-3185d068223f.jpg",
-  "name": "LS MEGA HAIR - Cabelos Humanos",
-  "short_name": "lsmegahair",
+  "name": "LS Prótese Capilar - Cabelos Humanos",
+  "short_name": "lsprotesecapilar",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#fedd20",
   "icon": "/img/uploads/1652802174477-03c6ab00-d5f8-11ec-b8ab-3185d068223f.jpg",
   "store_id": 35950,
-  "description": "lsmegahair",
+  "description": "LSPróteseCapilar",
   "large_icon": "/img/uploads/1652802174477-03c6ab00-d5f8-11ec-b8ab-3185d068223f.jpg"
 }
