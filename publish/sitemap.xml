@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://www.lsprotesecapilar.com.br/protese-capilar</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.lsprotesecapilar.com.br/acessorios-e-utilidades</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.lsprotesecapilar.com.br/servicos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.lsprotesecapilar.com.br/cabelo-humano-loiro-brasileiro-do-sul-raiz-esfumada-70cm-50g</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -122,6 +104,42 @@
     </url>
   
     <url>
+      <loc>https://www.lsprotesecapilar.com.br/prtese-capilar-de-micropele-1b30---30-grisalho-bangladesh</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lsprotesecapilar.com.br/prtese-capilar-de-micropele-1b---castanho-esc-bangladesh</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lsprotesecapilar.com.br/aplique-de-franja-cabelo-humano-tictac---loiro</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lsprotesecapilar.com.br/protese-capilar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lsprotesecapilar.com.br/acessorios-e-utilidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lsprotesecapilar.com.br/servicos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.lsprotesecapilar.com.br/pages/atacado</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -194,15 +212,15 @@
     </url>
   
     <url>
-      <loc>https://www.lsprotesecapilar.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.lsprotesecapilar.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lsprotesecapilar.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
