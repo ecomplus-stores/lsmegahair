@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://www.lsprotesecapilar.com.br/protese-capilar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lsprotesecapilar.com.br/acessorios-e-utilidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lsprotesecapilar.com.br/servicos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.lsprotesecapilar.com.br/cabelo-humano-loiro-brasileiro-do-sul-raiz-esfumada-70cm-50g</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -416,21 +434,27 @@
     </url>
   
     <url>
-      <loc>https://www.lsprotesecapilar.com.br/protese-capilar</loc>
+      <loc>https://www.lsprotesecapilar.com.br/fita-gold---5-metros---adesiva-para-prtese-capilar</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://www.lsprotesecapilar.com.br/acessorios-e-utilidades</loc>
+      <loc>https://www.lsprotesecapilar.com.br/fita-gold---10-metros---adesiva-para-prtese-capilar</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://www.lsprotesecapilar.com.br/servicos</loc>
+      <loc>https://www.lsprotesecapilar.com.br/fita-gold---25-metros---adesiva-para-prtese-capilar</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.lsprotesecapilar.com.br/fita-gold---50-metros---adesiva-para-prtese-capilar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
