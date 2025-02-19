@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6fb0aea1f689d58b363aef5508cc2160.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.28040a589b035467a3020fe049d7fb2c.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.27fa25f0c884d4191503660bfa93bbd5.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.b79f4cf154204637c33f10425bb3d7e0.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.5da164b9d65f146f885e00852fd60b8f.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "LS Prótese Capilar - Cabelos Humanos",
+  "short_name": "lsprotesecapilar",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "LSPróteseCapilar",
+  "background_color": "#ffffff",
+  "theme_color": "#6f5607"
+}
